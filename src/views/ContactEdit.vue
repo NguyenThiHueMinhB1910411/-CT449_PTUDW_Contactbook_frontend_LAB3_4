@@ -47,7 +47,7 @@ export default {
                 this.message = "liên hệ được cập nhật thành công.";
             } catch (error) {
                 console.log(error);
-                
+
             }
             //
         },

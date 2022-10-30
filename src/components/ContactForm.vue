@@ -6,7 +6,11 @@ export default {
         Form,
         Field,
         ErrorMessage,
+
+
     },
+
+    
     emits: ["submit:contact", "delete:contact"],
     props: {
         contact: { type: Object, required: true },

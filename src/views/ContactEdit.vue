@@ -47,7 +47,9 @@ export default {
                 this.message = "liên hệ được cập nhật thành công.";
             } catch (error) {
                 console.log(error);
+                
             }
+            //
         },
         async deleteContact() {
             if (confirm("Bạn muốn xóa liên hệ này?")) {

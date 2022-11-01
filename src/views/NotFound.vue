@@ -2,7 +2,7 @@
     <div class="page">
         <p>
             Oop, không thể tìm thấy trang chủ . Trở về
-            <route-link to="/">Trang chủ.</route-link>
+            <router-link to="/">Trang chủ.</router-link>
         </p>
 
     </div>

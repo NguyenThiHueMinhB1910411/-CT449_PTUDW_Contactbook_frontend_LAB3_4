@@ -17,6 +17,7 @@ export default {
             message: "",
         };
     },
+    
     methods: {
         async addContact(data) {
             try {

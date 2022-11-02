@@ -60,7 +60,6 @@ export default {
             <label for="email">E-mail</label>
             <Field name="email" type="email" class="form-control" v-model="contactLocal.email" />
             <ErrorMessage name="email" class="error-feedback" />
-
         </div>
 
         <div class="form-group">
